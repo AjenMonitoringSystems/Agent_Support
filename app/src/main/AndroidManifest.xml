@@ -7,6 +7,7 @@
     <application
         android:icon="@mipmap/ic_launcher"
         android:label="Agent Support"
+        android:configChanges="orientation|screenSize|keyboardHidden"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AgentSupport"
